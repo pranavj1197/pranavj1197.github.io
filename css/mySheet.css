@@ -414,7 +414,7 @@ h2 {
   font-size: 25px;
 }
 span {
-  background: red;
+  background: #1A4B83;
 }
 
 .list-inline>li {
@@ -710,6 +710,3 @@ ul#demo1 li:hover a {
     background-color:#c1f7f8;
     border-color: transparent;
 }
-
-
-
